@@ -81,7 +81,7 @@ On the top, click **Add GitHub Account**.
 
 You will see a pop-up window like this. Either add a new GitHub Account or reconnect GitHub Account.
 
-![Sign In](./images/14_SigIn.jpg)
+![Sign In](./images/14_SignIn.jpg)
 
 Once you sign in, you will see that your account is connected.
 
