@@ -25,7 +25,7 @@ Search for **Visual Studio** after clicking Windows button.
 
 Then, your Visual Studio IDE will be launching.
 
-![Launch Visual Studio IDE](./images/1_Launching.jpg)
+![Launch Visual Studio IDE](./images/1_VSLaunching.jpg)
 
 ### Step 2: Create a new project
 
@@ -107,7 +107,7 @@ Again, when you enter, it should show you a suggestion. Yours might look differe
 
 Hit **Tab** button to select the first suggestion. Your code might look like this.
 
-![Function code](./images/15_CompleteFunction.jpg)
+![Function code](./images/15_CompleteCode.jpg)
 
 Let's proceed to add codes to run that within main function. In the Main method, start clicking anywhere and click **Enter** button to see suggestions made by Copilot.
 
