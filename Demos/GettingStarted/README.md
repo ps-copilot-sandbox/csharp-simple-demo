@@ -81,11 +81,11 @@ Console.ReadLine();
 
 This can helps to keep the console window open after the program is finished.
 
-![Add Console.ReadLine()](./images/11_AddReadLine.jpg)
+![Add Console.ReadLine()](./images/11_AddReadline.jpg)
 
 Your file should look like this.
 
-![Final code](./images/12_ReadLine.jpg)
+![Final code](./images/12_Readline.jpg)
 
 That is it for writing a very simple code using Copilot. We can run this code by clicking **Start** button on top, but let's actually write a function.
 
