@@ -9,7 +9,7 @@ Make sure that you meet the following requirements.
 - [Visual Studio IDE](https://visualstudio.microsoft.com/downloads/) for Windows
 - [Copilot Extension for Visual Studio IDE](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot). 
 
-[See this documentation on how to install Copilot extension for Visual Studio IDE](./CopilotExtensionVS)
+[See this documentation on how to install Copilot extension for Visual Studio IDE](../CopilotExtensionVS)
 
 ## Steps
 
